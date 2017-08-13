@@ -1,2 +1,2 @@
-# BeachBoss
-Variant to the popular Japanese puzzle game "Sokoban"
+# 2911_project
+Warehouse Boss - Interactive Puzzle Game
