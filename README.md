@@ -1,9 +1,9 @@
 # 2911_project
 
-Interactive puzzle game written in Java with the swing library.__
+Interactive puzzle game written in Java with the swing library.
 
 
-Limitations: No graphics library
+<br>Limitations: No graphics library</br>
 
 Features: Simple map generator based on breadth-first search traversal.
 
